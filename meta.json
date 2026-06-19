@@ -1,0 +1,19 @@
+{
+  "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Proxy Settings",
+  "description": "Настройка HTTP/HTTPS прокси для исходящих запросов Emby Server",
+  "overview": "Позволяет задать адрес прокси-сервера, через который Emby Server будет выходить в интернет",
+  "owner": "local",
+  "category": "General",
+  "imageUrl": "",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "changelog": "Первый релиз",
+      "targetAbi": "4.9.0.0",
+      "sourceUrl": "",
+      "checksum": "",
+      "timestamp": "2026-06-19T00:00:00Z"
+    }
+  ]
+}
